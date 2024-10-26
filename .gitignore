@@ -1,0 +1,68 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+.Rproj.user/shared/
+.Rproj.user/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.rda
+*.rds
+*.RData
+
+# Documentation
+*.pdf
+*.html
+
+# Cache files and output files
+.Rout
+.Rout.save
+*.md
+*.html
+*.nb.html
+*.Rmd
+
+# Logs
+*.log
+
+# Packrat generated packages
+packrat/lib*/**
+packrat/src/**
+
+# Python virtual environment (if used)
+venv/
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignore renv packages
+renv/library/
+renv/staging/
+renv/cache/
+
+# Ignore large files not needed for the repository
+*.gz
+*.zip
+*.tar
+*.tgz
+*.7z
+*.rar
+*.jar
+
